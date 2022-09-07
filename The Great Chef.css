@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-image {
+    width: 50px;
+    height: 50px;
+}
+
+.home-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.home-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.caption {
+    color: #1e014d;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.home-image {
+    border-radius: 16px;
+}
+
+.about-container {
+    background-color: lightblue;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.about-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.description {
+    color: #331206;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.orders-container {
+    background-color: #f5d08c;
+    background-size: cover;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.f-image {
+    width: 150px;
+    height: 400px;
+    border-radius: 16px;
+}
+
+.food-name {
+    color: #120c01;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button-order {
+    width: 110px;
+    color: white;
+}
+
+.contact-container {
+    background-color: #e6f0e9;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.contact-heading {
+    color: blue;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 32px;
+    text-align: left;
+}
+
+.description-contact {
+    color: #331206;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
+.us-element {
+    color: red;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.icon {
+    font-size: 28px;
+}
